@@ -1,0 +1,10 @@
+{
+  "entrypoints/app.js": {
+    "file": "app.js.f0f88e3e.js",
+    "src": "entrypoints/app.js",
+    "isEntry": true,
+    "css": [
+      "app.js.9de1f58b.css"
+    ]
+  }
+}
